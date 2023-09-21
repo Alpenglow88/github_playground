@@ -20,4 +20,4 @@ jobs:
         with:
           mode: exactly
           count: 1
-          labels: "Team: Web Stack, Team: Business Operations, Team: Core Video, Team: Elite, Team: Elite Recruitment, Team: Elite GSL, Team: Focus, Team: Match Analysis, Team: Fan, Team: AML, Team: Data Generation, Team: Club, Team: HS, Team: Level Up"
+          labels: "Team: Elite ESP"
